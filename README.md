@@ -10,4 +10,4 @@ The design impetus
 
 **This process was for me, it fit me.** Developing a web application became the perfect marriage of the two seemingly disjunct sides of my brain.  Web development is my corpus callosum.  It is why I went to code school and why I am an aspiring full stack developer.  Let's see where I go...
 
-
+**Yes, this is a big doc.**  To take a look, feel free to download the doc.. as it stands the 52 pager is beyond github's capacity for display at this time.
